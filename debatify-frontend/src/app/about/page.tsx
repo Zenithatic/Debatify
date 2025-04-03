@@ -13,12 +13,9 @@ export default function AboutPage() {
     <div>
       <Navbar />
       <div className="max-w-3xl mx-auto px-4 py-12" >
-        <h1 className="text-4xl font-bold mb-4" > About Debatify </h1>
+        <h1 className="text-4xl font-bold mb-4" > About Motives </h1>
         < p className="text-lg text-gray-700 mb-6" >
-          Debatify is a platform dedicated to enabling individuals to voice their opinions
-          on issues ranging from a simple household matter to global politics.
-          Whether you're a student, enthusiast, or professional, we aim to provide the tools
-          and environment you need to sharpen your skills and engage in meaningful discussions.
+        Motives isn’t just an app — it’s your ultimate social plug. Find the wildest parties near you, link with new friend groups, and grow your network like never before. Whether you’re tryna turn up or level up, Motives keeps you in the loop and never out of the mix. Tap in and let the good times find you.
         </p>
         < p className="text-lg text-gray-700" >
           Built by a passionate team of developers and thinkers, Debatify is designed

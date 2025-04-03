@@ -1,0 +1,65 @@
+.container {
+    background-color: #fff;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+    max-width: 350px;
+    transition: transform 0.3s ease;
+  }
+  
+  .container:hover {
+    transform: scale(1.03);
+  }
+  
+  .imageWrapper {
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .content {
+    padding: 1rem;
+  }
+  
+  .title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+  
+  .meta {
+    font-size: 0.875rem;
+    color: #666;
+    margin-bottom: 0.75rem;
+  }
+  
+  .description {
+    font-size: 0.95rem;
+    color: #444;
+    margin-bottom: 1rem;
+  }
+  
+  .links {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .link {
+    background-color: #000;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    text-decoration: none;
+    font-size: 0.875rem;
+    transition: background-color 0.2s ease;
+  }
+  
+  .link:hover {
+    background-color: #333;
+  }
+  

@@ -8,9 +8,9 @@ export default function SignuPage() {
             
             <div className="max-w-3xl mx-auto px-4 py-12">
            
-            <h1 className="text-4xl font-bold mb-4"> Voice your opinions!</h1>
-            <p className= "text-lg text-gray-700 mb-6"> start debating your views and become more knowledgable
-             in issues that bother you. Signup today!</p>
+            <h1 className="text-4xl font-bold mb-4"> Find the next party!</h1>
+            <p className= "text-lg text-gray-700 mb-6"> start finding new people and making new memories!
+             make the next project X!! Signup today!</p>
              <Form />
             </div>
 

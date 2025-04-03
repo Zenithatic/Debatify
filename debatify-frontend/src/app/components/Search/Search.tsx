@@ -17,7 +17,7 @@ function Search() {
             </IconButton>
             <InputBase
                 sx={{ ml: 1, flex: 1, color: "white" }}
-                placeholder="Search Debatify"
+                placeholder="Find a motive  "
                 inputProps={{ 'aria-label': 'search debatify' }}
             />
             <IconButton type="button" sx={{ p: '10px', color: "white"  }} aria-label="search">
